@@ -1,5 +1,5 @@
-variable "project_slug" {
-  description = "Lowercase slug used for naming VPC resources."
+variable "project_name" {
+  description = "Used for naming VPC resources."
   type        = string
 }
 
